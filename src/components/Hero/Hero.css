@@ -1,0 +1,20 @@
+.hero {
+  text-align: center;
+  padding: 120px 20px;
+  background: linear-gradient(120deg, #007acc, #00bcd4);
+  color: white;
+}
+
+.hero .btn {
+  background: white;
+  color: #007acc;
+  padding: 10px 20px;
+  border-radius: 25px;
+  margin-top: 20px;
+  display: inline-block;
+  transition: background 0.3s;
+}
+
+.hero .btn:hover {
+  background: #f1f1f1;
+}
